@@ -81,4 +81,9 @@ pagkage.json 에 다음과 같이 의존성을 추가하면된다.
 - <img width="1728" alt="스크린샷 2024-11-30 오전 12 52 53" src="https://github.com/user-attachments/assets/8fe76cf3-23e5-4de7-bedf-632c4d4b2979">
 - <img width="1728" alt="스크린샷 2024-11-30 오전 12 53 56" src="https://github.com/user-attachments/assets/5b7abba7-245b-4ef4-8d64-b956d83a3261">
 - 이제 그룹을 진행하였고 각 유저에 대한 데이터베이스의 구조를 어느정도 갖췃으니 모든 api를 완성 시키고 소켓연결 까지 하면 완성이다.
+### ----
+
+
+https://github.com/user-attachments/assets/02efca7d-4dbd-4643-8ea9-142e27a17dda
+
 
